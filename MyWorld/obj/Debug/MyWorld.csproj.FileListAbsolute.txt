@@ -1,0 +1,9 @@
+D:\University\SoloStudying\MyWorld\bin\Debug\MyWorld.exe.config
+D:\University\SoloStudying\MyWorld\bin\Debug\MyWorld.exe
+D:\University\SoloStudying\MyWorld\bin\Debug\MyWorld.pdb
+D:\University\SoloStudying\MyWorld\obj\Debug\MyWorld.csprojAssemblyReference.cache
+D:\University\SoloStudying\MyWorld\obj\Debug\MyWorld.Form1.resources
+D:\University\SoloStudying\MyWorld\obj\Debug\MyWorld.Properties.Resources.resources
+D:\University\SoloStudying\MyWorld\obj\Debug\MyWorld.csproj.GenerateResource.cache
+D:\University\SoloStudying\MyWorld\obj\Debug\MyWorld.exe
+D:\University\SoloStudying\MyWorld\obj\Debug\MyWorld.pdb
